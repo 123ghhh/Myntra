@@ -1,0 +1,18 @@
+#r1{
+background-color: rgb(166, 239, 166);
+border: 2px;
+ border-radius:10px ;
+ padding: 10px 15px;
+}
+#r2{
+    background-color: lightgreen;
+    border: 2px;
+     border-radius:10px ;
+     padding: 10px 15px;
+    }
+    #r3{
+        background-color: lightgreen;
+        border: 2px;
+         border-radius:10px ;
+         padding: 10px 15px;
+        }
